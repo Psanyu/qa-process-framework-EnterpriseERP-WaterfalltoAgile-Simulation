@@ -68,9 +68,13 @@ All Critical defects were resolved before sprint closure, ensuring production re
 **The project demonstrates:**
 
 ✔ Strong understanding of SDLC & STLC
+
 ✔ Ability to work in Waterfall and Agile models
+
 ✔ Structured documentation skills
+
 ✔ Risk-based testing approach
+
 ✔ Enterprise-level defect governance
 
 **Conclusion**
