@@ -16,86 +16,56 @@ The objective of this simulation was to demonstrate structured QA governance acr
 - Delivery Approach
 
 **The project followed a hybrid execution model:**
-
-Mini-Waterfall Phase
-
-BRD & FRD documentation
-
-Test Strategy creation
-
-RTM preparation
-
-Initial risk assessment
-
-Scrum-Based Agile Execution
-
-2-week sprint cycles
-
-Product backlog & sprint backlog management
-
-Continuous QA involvement
-
-Sprint reviews & defect triage
+- Mini-Waterfall Phase
+- BRD & FRD documentation
+- Test Strategy creation
+- RTM preparation
+- Initial risk assessment
+- Scrum-Based Agile Execution
+- 2-week sprint cycles
+- Product backlog & sprint backlog management
+- Continuous QA involvement
+- Sprint reviews & defect triage
 
 This hybrid approach demonstrates adaptability across enterprise delivery environments.
 
-QA Strategy & Governance
+**QA Strategy & Governance**
 
 QA was integrated from requirement analysis through production readiness.
 
-Key QA Activities:
+**Key QA Activities:**
+- Requirement review & ambiguity resolution
+- Test case design & execution
+- Risk-based prioritization
+- Defect lifecycle management
+- Regression testing before release
+- Sprint-level reporting
 
-Requirement review & ambiguity resolution
+**Artifacts produced:**
+- BRD / FRD
+- RTM
+- Test Plan & Test Strategy
+- Test Execution Reports
+- Agile Backlog & Sprint Documents
+- Defect Log (Sprint-wise classification)
+- Defect Metrics Summary
 
-Test case design & execution
+**Across two Agile sprints:**
 
-Risk-based prioritization
-
-Defect lifecycle management
-
-Regression testing before release
-
-Sprint-level reporting
-
-Artifacts produced:
-
-BRD / FRD
-
-RTM
-
-Test Plan & Test Strategy
-
-Test Execution Reports
-
-Agile Backlog & Sprint Documents
-
-Defect Log (Sprint-wise classification)
-
-Defect Metrics Summary
-
-Across two Agile sprints:
-
-Total Defects Identified: 20
-
-Critical: 3
-
-Medium: 9
-
-Low: 8
+- Total Defects Identified: 20
+- Critical: 3
+- Medium: 9
+- Low: 8
 
 All Critical defects were resolved before sprint closure, ensuring production readiness.
 
-Project Outcome
+**Project Outcome**
+- Sprint goals achieved across both cycles
+- Full functional coverage validated
+- Regression suite passed successfully
+- Release approved by Product Owner
 
-Sprint goals achieved across both cycles
-
-Full functional coverage validated
-
-Regression suite passed successfully
-
-Release approved by Product Owner
-
-The project demonstrates:
+**The project demonstrates:**
 
 ✔ Strong understanding of SDLC & STLC
 ✔ Ability to work in Waterfall and Agile models
@@ -103,7 +73,7 @@ The project demonstrates:
 ✔ Risk-based testing approach
 ✔ Enterprise-level defect governance
 
-Conclusion
+**Conclusion**
 
 This QA Process Framework Simulation highlights the ability to operate within structured enterprise environments while adapting to Agile methodologies.
 
