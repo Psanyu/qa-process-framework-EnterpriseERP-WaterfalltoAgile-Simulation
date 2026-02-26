@@ -3,7 +3,7 @@
 |**Defect ID** |	**Story ID** |	**Description**|	**Severity** |	**Priority** |	**Status** |	**Sprint** |
 |------------- |	------------ |	---------------|	------------ |	------------ |	---------- |	---------- |
 |LNT-AG-01 |	US-301 |	Cart price miscalculation when quantity updated |	Critical |	High |	Closed |	Sprint 1 |
-LNT-AG-02	US-102	Login session timeout not handled properly	Critical	High	Closed	Sprint 1
+|LNT-AG-02 |	US-102 |	Login session timeout not handled properly	    | Critical |	High |	Closed |  Sprint 1 |
 LNT-AG-03	US-101	Email validation accepts invalid format	Medium	Medium	Closed	Sprint 1
 LNT-AG-04	US-201	Item list pagination issue	Medium	Medium	Closed	Sprint 1
 LNT-AG-05	US-301	Remove item button UI misaligned	Low	Low	Closed	Sprint 1
