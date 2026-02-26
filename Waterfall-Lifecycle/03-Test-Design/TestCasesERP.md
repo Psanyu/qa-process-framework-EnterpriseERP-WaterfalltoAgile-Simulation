@@ -90,3 +90,28 @@
 1. Trigger financial posting
 2. Verify ledger entry
 **Expected Result:** Debit/Credit entry recorded successfully
+
+----
+
+### TC-IM-02
+**Requirement ID:** FR-IM-02  
+**Scenario:** Invoice price mismatch validation  
+**Precondition:** Approved PO and GRN exist  
+**Test Steps:**
+1. Create vendor invoice
+2. Enter unit price different from PO price
+3. Submit for validation
+**Expected Result:** System flags price discrepancy and blocks approval
+
+---
+
+### TC-FP-02
+**Requirement ID:** FR-FP-01  
+**Scenario:** Prevent duplicate ledger posting on refresh  
+**Precondition:** Invoice approved for posting  
+**Test Steps:**
+1. Trigger financial posting
+2. Refresh the page during processing
+3. Verify ledger entries
+**Expected Result:** Only one ledger entry is created
+---
