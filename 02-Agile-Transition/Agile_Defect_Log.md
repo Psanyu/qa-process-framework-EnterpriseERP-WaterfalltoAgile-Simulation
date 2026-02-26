@@ -11,6 +11,7 @@
 
 **Sprint 2 Defects**
 |Defect ID |	Story ID |	Description |	Severity |	Priority |	Status |	Sprint |
+|--------- |	-------- |	----------- |	-------- |	-------- |	------ |	------ |
 |LNT-AG-07 |	US-401 |	Payment failure message not displayed |	Critical |	High |	Closed |	Sprint 2 |
 |LNT-AG-08 |	US-303 |	Checkout page loads slowly |	Medium |	Medium |	Closed |	Sprint 2 |
 |LNT-AG-09 |	US-304 |	Order confirmation email delay |	Medium |	Medium |	Closed |	Sprint 2 |
